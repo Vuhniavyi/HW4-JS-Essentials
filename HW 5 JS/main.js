@@ -54,7 +54,7 @@ const sumRange = function(start,end){
 });
 };
 
-// console.log(sumRange(2, 4)) // 9
+console.log(sumRange(2, 4)) // 9
 
 
 //ex4(2)
