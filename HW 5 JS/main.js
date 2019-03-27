@@ -59,14 +59,14 @@ const sumRange = function(start,end){
 
 //ex4(2)
 
-function sumRange(start, end) { 
+function sumRang(start, end) { 
 	let sum = 0;
 for (let i = start; i <= end; i++) {
 	sum += i;
 }
 return sum;
 }
-console.log(sumRange(2, 4)) 
+console.log(sumRang(2, 4)) 
 
 
 
